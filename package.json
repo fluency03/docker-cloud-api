@@ -1,0 +1,19 @@
+{
+  "name": "docker-cloud-api",
+  "version": "0.0.0",
+  "description": "A Node.js wrapper for Docker Cloud API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fluency03/docker-cloud-api.git"
+  },
+  "author": "Chang Liu <fluency.03@gmail.com> (http://fluency03.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fluency03/docker-cloud-api/issues"
+  },
+  "homepage": "https://github.com/fluency03/docker-cloud-api#readme"
+}
